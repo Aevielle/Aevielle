@@ -30,7 +30,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/aeriiely/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/channels/@me" target="_blank">
@@ -75,10 +75,23 @@
 
 <h3>📜 Certificates</h3>
 
-| Certificate |Issued By |Year |
-|---|---:|---:|
-| [Introduction to Cybersecurity](https://drive.google.com/file/d/1pYepQ4Q4aguL3iDqsbrg-kimREEIAFQX/view?usp=sharing) | Cisco Net Acad | 2025 |
-| [SQL and Relational Databases 101](https://drive.google.com/file/d/1TqRAgKz5aN1TlBJ-QkI9A-omdJ8-9Esk/view?usp=sharing) | Cognitive Class AI | 2025 |
+<table>
+  <tr>
+    <th align="left">Certificate</th>
+    <th align="left">Issued By</th>
+    <th align="center">Year</th>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1pYepQ4Q4aguL3iDqsbrg-kimREEIAFQX/view?usp=sharing" target="_blank">Introduction to Cybersecurity</a></td>
+    <td>Cisco Net Acad</td>
+    <td align="center">2025</td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1TqRAgKz5aN1TlBJ-QkI9A-omdJ8-9Esk/view?usp=sharing" target="_blank">SQL and Relational Databases 101</a></td>
+    <td>Cognitive Class AI</td>
+    <td align="center">2025</td>
+  </tr>
+</table>
 
 ---
 
