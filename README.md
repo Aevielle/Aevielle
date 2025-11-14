@@ -42,7 +42,6 @@
 
 ---
 
-### 🎓 Education
 <h3>🎓 Education</h3>
 
 <div>
@@ -77,7 +76,7 @@
 
 ---
 
-### 📜 Certificates
+<h3>📜 Certificates</h3>
 
 | Certificate | Issued By | Year |
 |---|---:|---:|
