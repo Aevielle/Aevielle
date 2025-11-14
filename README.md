@@ -1,4 +1,4 @@
-# Hi, I'm Kim Aeriel 👋
+<h1 align="center">Hi, I'm Kim Aeriel 👋</h1>
 
 ---
 
