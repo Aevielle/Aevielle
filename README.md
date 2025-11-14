@@ -1,5 +1,6 @@
-<p align="center">
-###Hi, I'm Kim Aeriel 👋</p>
+# Hi, I'm Kim Aeriel 👋
+
+---
 
 <p align="center">
   <em>💻 Computer Science Student | ⚡ Problem Solver | 🌱 Always Learning</em>
