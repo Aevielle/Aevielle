@@ -90,3 +90,9 @@
 - **Dev Tools:** Visual Studio Code, Google Workspace, Git, Microsoft Office, Vercel, Heroku
 
 ###
+
+---
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
