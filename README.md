@@ -30,10 +30,9 @@
 ### 📜 Certificates
 
 | Certificate | Issued By | Year |
-|---|---:|---:|
-| <a href="C:\Users\Kim Aeriel\Desktop\CERTIFICATES.jpg" target="_blank"><img src="./certs/Introduction-to-Cybersecurity.png" alt="Introduction to Cybersecurity" width="300"/></a><br/><small><a href="./certs/Introduction-to-Cybersecurity.png" target="_blank">📷 View image</a></small> | Cisco Net Acad | 2025 |
-| <a href="./certs/SQL-Database-101.png" target="_blank"><img src="./certs/SQL-Database-101.png" alt="SQL Database 101" width="300"/></a><br/><small><a href="./certs/SQL-Database-101.png" target="_blank">📷 View image</a></small> | Cognitive Class AI | 2025 |
-
+|---|---:---|---:|
+| <a href="./certs/Introduction-to-Cybersecurity.jpg" target="_blank">Introduction to Cybersecurity<br/><img src="./certs/Introduction-to-Cybersecurity.jpg" alt="Introduction to Cybersecurity" width="300"/></a> | Cisco Net Acad | 2025 |
+| <a href="./certs/SQL-Database-101.jpg" target="_blank">SQL Database 101<br/><img src="./certs/SQL-Database-101.jpg" alt="SQL Database 101" width="300"/></a> | Cognitive Class AI | 2025 |
 ---
 
 ### 🛠 Skills
