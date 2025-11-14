@@ -43,9 +43,37 @@
 ---
 
 ### 🎓 Education
+<h3>🎓 Education</h3>
 
-- **Bachelor of Science in Computer Science**
-  - [New Era University] (2024 – Present)
+<div>
+  <section>
+    <h4>College <small>(2024 - present)</small></h4>
+    <ul>
+      <li>New Era University</li>
+    </ul>
+  </section>
+
+  <section>
+    <h4>Senior High School <small>(2022 - 2024)</small></h4>
+    <ul>
+      <li>San Francisco High School</li>
+    </ul>
+  </section>
+
+  <section>
+    <h4>High School <small>(2018 - 2022)</small></h4>
+    <ul>
+      <li>New Era University</li>
+    </ul>
+  </section>
+
+  <section>
+    <h4>Elementary <small>(2011 - 2018)</small></h4>
+    <ul>
+      <li>New Era University</li>
+    </ul>
+  </section>
+</div>
 
 ---
 
