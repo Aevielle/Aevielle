@@ -45,7 +45,7 @@
 <h3>🎓 Education</h3>
 
 <ul>
-  <li><strong><span style="font-family:'Times New Roman', Times, serif;">College | Bachelor of Science in Computer Science</strong>
+  <li><strong>College | Bachelor of Science in Computer Science</strong>
     <ul>
       <li>New Era University</a> <small>(2024 – Present)</small></li>
     </ul>
