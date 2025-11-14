@@ -1,5 +1,5 @@
-
-# Hi, I'm Kim Aeriel 👋
+<p align="center">
+<em>Hi, I'm Kim Aeriel 👋</p>
 
 <p align="center">
   <em>💻 Computer Science Student | ⚡ Problem Solver | 🌱 Always Learning</em>
