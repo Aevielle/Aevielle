@@ -44,6 +44,8 @@
 
 <h3>🎓 Education</h3>
 
+<table>
+<tr>
 <ul>
   <li><strong>College | Bachelor of Science in Computer Science</strong>
     <ul>
@@ -69,6 +71,8 @@
     </ul>
   </li>
 </ul>
+</table>
+</tr>
 
 ---
 
