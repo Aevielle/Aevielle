@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/92/27/8e/92278eb22e67f122b29ea77a6404d70a.gif"  />
+  <img height="150" src="https://i.pinimg.com/originals/cd/6d/4d/cd6d4d9bc747cbf4ea72aeb06b1f2eb8.gif"  />
 </div>
 
 <h1 align="center">Hi, I'm Kim Aeriel 👋</h1>
