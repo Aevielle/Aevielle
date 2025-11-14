@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/d7/6a/b4/d76ab4ea2938775798290828aa3d2276.gif"  />
+  <img height="150" src="https://i.pinimg.com/originals/92/27/8e/92278eb22e67f122b29ea77a6404d70a.gif"  />
 </div>
 
 <h1 align="center">Hi, I'm Kim Aeriel 👋</h1>
@@ -53,19 +53,19 @@
 
   <li><strong>Senior High School | STEM</strong>
     <ul>
-      <li><a href="#" title="San Francisco High School">San Francisco High School</a> <small>(2022 – 2024)</small></li>
+      <li>San Francisco High School</a> <small>(2022 – 2024)</small></li>
     </ul>
   </li>
 
   <li><strong>High School</strong>
     <ul>
-      <li><a href="#" title="New Era University">New Era University</a> <small>(2018 – 2022)</small></li>
+      <li>New Era University</a> <small>(2018 – 2022)</small></li>
     </ul>
   </li>
 
   <li><strong>Elementary</strong>
     <ul>
-      <li><a href="#" title="New Era University">New Era University</a> <small>(2011 – 2018)</small></li>
+      <li>New Era University</a> <small>(2011 – 2018)</small></li>
     </ul>
   </li>
 </ul>
