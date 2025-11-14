@@ -82,12 +82,32 @@
 
 ---
 
-### 🛠 Skills
+### 
 
-- **Programming Languages:** Java, SQL, Python, HTML, CSS, TypeScript, JavaScript 
-- **Databases & Services:** IBM DB2 Cloud, Supabase, MongoDB  
-- **Frameworks & Tools:** React, Node.js, Lucidchart, Figma, Canva Education 
-- **Dev Tools:** Visual Studio Code, Google Workspace, Git, Microsoft Office
+<h3>🛠 Skills</h3>
+
+<ul>
+  <li><strong>Programming Languages</strong>
+    <ul>
+      <li>Java, SQL, Python, HTML, CSS, TypeScript, JavaScript</li>
+    </ul>
+  </li>
+  <li><strong>Databases & Services</strong>
+    <ul>
+      <li>IBM DB2 Cloud, Supabase, MongoDB</li>
+    </ul>
+  </li>
+  <li><strong>Frameworks & Tools</strong>
+    <ul>
+      <li>React, Node.js, Lucidchart, Figma, Canva</li>
+    </ul>
+  </li>
+  <li><strong>Dev Tools</strong>
+    <ul>
+      <li>Visual Studio Code, Google Workspace, Git, Microsoft Office</li>
+    </ul>
+  </li>
+</ul>
 
 ###
 
