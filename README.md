@@ -70,7 +70,7 @@
         </li>
       </ul>
     </td>
-    <td width="35%" valign="middle" align="center">
+    <td width="35%" valign="middle" align="right">
       <img src="https://i.pinimg.com/originals/71/97/3f/71973f6d71e09d0f816d01f1c673549e.gif" width="200" alt="Coding GIF" />
     </td>
   </tr>
