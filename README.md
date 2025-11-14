@@ -45,13 +45,13 @@
 <h3>🎓 Education</h3>
 
 <ul>
-  <li><strong>Bachelor of Science in Computer Science</strong>
+  <li><strong>College | Bachelor of Science in Computer Science</strong>
     <ul>
-      <li><a href="#" title="New Era University">New Era University</a> <small>(2024 – Present)</small></li>
+      <li>New Era University</a> <small>(2024 – Present)</small></li>
     </ul>
   </li>
 
-  <li><strong>Senior High School</strong>
+  <li><strong>Senior High School | STEM</strong>
     <ul>
       <li><a href="#" title="San Francisco High School">San Francisco High School</a> <small>(2022 – 2024)</small></li>
     </ul>
