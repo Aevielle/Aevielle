@@ -44,7 +44,8 @@
 
 <h3>🎓 Education</h3>
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 30px;">
+  <!-- Education List -->
   <div style="flex: 1;">
     <ul style="margin: 0; padding-left: 20px;">
       <li><strong>College | Bachelor of Science in Computer Science</strong>
@@ -69,8 +70,10 @@
       </li>
     </ul>
   </div>
-  <div style="flex: 0 0 auto; text-align: center;">
-    <img src="https://i.pinimg.com/originals/71/97/3f/71973f6d71e09d0f816d01f1c673549e.gif" width="200" alt="Coding GIF" />
+  
+  <!-- GIF - positioned beside the education list -->
+  <div style="flex-shrink: 0; margin-top: 20px;">
+    <img src="https://i.pinimg.com/originals/71/97/3f/71973f6d71e09d0f816d01f1c673549e.gif" width="180" alt="Coding GIF" />
   </div>
 </div>
 
