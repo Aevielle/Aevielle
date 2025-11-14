@@ -1,9 +1,3 @@
-<div>
-  <img style="200%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
 <div align="center">
   <img height="150" src="https://i.pinimg.com/originals/cd/6d/4d/cd6d4d9bc747cbf4ea72aeb06b1f2eb8.gif"  />
 </div>
@@ -50,38 +44,28 @@
 
 <h3>🎓 Education</h3>
 
-<div style="display: flex; align-items: flex-start; gap: 30px;">
-  <!-- Education List -->
-  <div style="flex: 1;">
-    <ul style="margin: 0; padding-left: 20px;">
-      <li><strong>College | Bachelor of Science in Computer Science</strong>
-        <ul>
-          <li>New Era University <small>(2024 – Present)</small></li>
-        </ul>
-      </li>
-      <li><strong>Senior High School | STEM</strong>
-        <ul>
-          <li>San Francisco High School <small>(2022 – 2024)</small></li>
-        </ul>
-      </li>
-      <li><strong>High School</strong>
-        <ul>
-          <li>New Era University <small>(2018 – 2022)</small></li>
-        </ul>
-      </li>
-      <li><strong>Elementary</strong>
-        <ul>
-          <li>New Era University <small>(2011 – 2018)</small></li>
-        </ul>
-      </li>
+<ul>
+  <li><strong>College | Bachelor of Science in Computer Science</strong>
+    <ul>
+      <li>New Era University <small>(2024 – Present)</small></li>
     </ul>
-  </div>
-  
-  <!-- GIF - positioned beside the education list -->
-  <div style="flex-shrink: 0; margin-top: 20px;">
-    <img src="https://i.pinimg.com/originals/71/97/3f/71973f6d71e09d0f816d01f1c673549e.gif" width="180" alt="Coding GIF" />
-  </div>
-</div>
+  </li>
+  <li><strong>Senior High School | STEM</strong>
+    <ul>
+      <li>San Francisco High School <small>(2022 – 2024)</small></li>
+    </ul>
+  </li>
+  <li><strong>High School</strong>
+    <ul>
+      <li>New Era University <small>(2018 – 2022)</small></li>
+    </ul>
+  </li>
+  <li><strong>Elementary</strong>
+    <ul>
+      <li>New Era University <small>(2011 – 2018)</small></li>
+    </ul>
+  </li>
+</ul>
 
 ---
 
