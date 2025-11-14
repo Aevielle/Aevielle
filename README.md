@@ -31,7 +31,7 @@
 
 | Certificate | Issued By | Year |
 |---|---:|---:|
-| [Introduction to Cybersecurity](C:\Users\Kim Aeriel\Desktop\CERTIFICATES.pdf) | Cisco Net Acad | 2025 |
+| [Introduction to Cybersecurity](file:///C:/Users/Kim%20Aeriel/Desktop/CERTIFICATES/_certificate_kimfonseca1234-gmail-com_c73ea0a8-f01e-47f7-8584-27134b47ab21.pdf) | Cisco Net Acad | 2025 |
 | [SQL Database 101](./certs/SQL-Database-101.pdf) | Cognitive Class AI | 2025 |
 
 ### 🛠 Skills
