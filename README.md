@@ -78,7 +78,7 @@
 | Certificate | Issued By | Year |
 |---|---:|---:|
 | [Introduction to Cybersecurity](https://drive.google.com/file/d/1pYepQ4Q4aguL3iDqsbrg-kimREEIAFQX/view?usp=sharing) | Cisco Net Acad | 2025 |
-| [SQL Database 101](https://drive.google.com/file/d/1TqRAgKz5aN1TlBJ-QkI9A-omdJ8-9Esk/view?usp=sharing) | Cognitive Class AI | 2025 |
+| [SQL and Relational Databases 101](https://drive.google.com/file/d/1TqRAgKz5aN1TlBJ-QkI9A-omdJ8-9Esk/view?usp=sharing) | Cognitive Class AI | 2025 |
 
 ---
 
