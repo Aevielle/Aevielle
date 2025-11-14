@@ -94,5 +94,5 @@
 ---
 
 <div align="center">
-![snake gif](https://github.com/Aevielle/Aeville/blob/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/Aevielle/Aevielle/output/snake.svg" alt="Snake animation" />
 </div>
