@@ -44,35 +44,31 @@
 
 <h3>🎓 Education</h3>
 
-<div>
-  <section>
-    <h4>College <small>(2024 - present)</small></h4>
+<ul>
+  <li><strong>Bachelor of Science in Computer Science</strong>
     <ul>
-      <li>New Era University</li>
+      <li><a href="#" title="New Era University">New Era University</a> <small>(2024 – Present)</small></li>
     </ul>
-  </section>
+  </li>
 
-  <section>
-    <h4>Senior High School <small>(2022 - 2024)</small></h4>
+  <li><strong>Senior High School</strong>
     <ul>
-      <li>San Francisco High School</li>
+      <li><a href="#" title="San Francisco High School">San Francisco High School</a> <small>(2022 – 2024)</small></li>
     </ul>
-  </section>
+  </li>
 
-  <section>
-    <h4>High School <small>(2018 - 2022)</small></h4>
+  <li><strong>High School</strong>
     <ul>
-      <li>New Era University</li>
+      <li><a href="#" title="New Era University">New Era University</a> <small>(2018 – 2022)</small></li>
     </ul>
-  </section>
+  </li>
 
-  <section>
-    <h4>Elementary <small>(2011 - 2018)</small></h4>
+  <li><strong>Elementary</strong>
     <ul>
-      <li>New Era University</li>
+      <li><a href="#" title="New Era University">New Era University</a> <small>(2011 – 2018)</small></li>
     </ul>
-  </section>
-</div>
+  </li>
+</ul>
 
 ---
 
