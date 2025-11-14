@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Kim Aeriel 👋</h1>
 
----
+###
 
 <p align="center">
   <em>💻 Computer Science Student | 🤔 Exploring New Tech | 📖 Learning by Building</em>
