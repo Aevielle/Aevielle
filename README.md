@@ -82,7 +82,7 @@
   <thead>
     <tr>
       <th align="left">Certificate</th>
-      <th align="left">Issued</th>
+      <th align="left">Issued by</th>
     </tr>
   </thead>
   <tbody>
