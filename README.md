@@ -84,6 +84,7 @@
       <td>
         <a href="https://drive.google.com/file/d/1pYepQ4Q4aguL3iDqsbrg-kimREEIAFQX/view?usp=sharing" target="_blank">Introduction to Cybersecurity</a>
       </td>
+      <td>Issue date</td>
     </tr>
     <tr>
       <td>
