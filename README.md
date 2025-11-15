@@ -9,8 +9,42 @@
 </div>
 
 <div align="center">
-<h1>Hi, im Kim Aeriel</h1>
+  <svg width="100%" height="150" viewBox="0 0 900 150" xmlns="http://www.w3.org/2000/svg" aria-label="Hi, I'm Kim Aeriel 👋">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#7ee0ff"/>
+        <stop offset="50%" stop-color="#7bc7ff"/>
+        <stop offset="100%" stop-color="#9b7bff"/>
+      </linearGradient>
+      <mask id="mask-shimmer">
+        <rect width="900" height="150" fill="black"/>
+        <rect id="sh" x="-250" width="250" height="150" fill="white">
+          <animate attributeName="x" from="-250" to="900" dur="3.2s" repeatCount="indefinite" />
+        </rect>
+      </mask>
+    </defs>
+    <g transform="translate(50,45)" mask="url(#mask-shimmer)">
+      <text x="0" y="60" font-size="48" font-family="Georgia, serif" font-weight="700" fill="url(#grad)">
+        Hi, I'm Kim Aeriel
+      </text>
+    </g>
+    <g transform="translate(650,55)">
+      <text font-size="42">👋</text>
+      <animateTransform
+        attributeName="transform"
+        type="rotate"
+        values="0 10 0; 18 10 0; 0 10 0"
+        dur="1.3s"
+        repeatCount="indefinite"
+      />
+    </g>
+  </svg>
+
+  <h1 style="font-family: 'Times New Roman', Georgia, serif; margin-top: 10px;">
+    Hi, I'm Kim Aeriel <span style="font-size:28px;">👋</span>
+  </h1>
 </div>
+
 
 ###
 
