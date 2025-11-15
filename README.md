@@ -173,8 +173,6 @@
 
 ###
 
----
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/Aevielle/Aevielle/output/snake.svg" alt="Snake animation" />
 </div>
