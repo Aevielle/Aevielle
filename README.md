@@ -56,13 +56,15 @@
 
 <h3>🎓 Education</h3>
 
-<table style="border: none; border-collapse: collapse; width: 100%;">
+<table>
   <tr>
-    <td style="border: none; vertical-align: top; width: 60%;">
-      <ul style="margin: 0; padding-left: 20px;">
+    <td valign="top" width="70%">
+      <ul>
         <li><strong>College | Bachelor of Science in Computer Science</strong>
           <ul>
             <li>New Era University <small>(2024 – Present)</small></li>
+          </ul>
+        </li>
           </ul>
         </li>
         <li><strong>Senior High School | STEM</strong>
@@ -82,8 +84,10 @@
         </li>
       </ul>
     </td>
-    <td style="border: none; vertical-align: middle; width: 40%; text-align: center;">
-      <img src="https://i.pinimg.com/originals/71/97/3f/71973f6d71e09d0f816d01f1c673549e.gif" width="200" alt="Education GIF" />
+    <td valign="middle" width="30%" align="right">
+      <a href="https://i.pinimg.com/originals/71/97/3f/71973f6d71e09d0f816d01f1c673549e.gif" target="_blank" rel="noopener">
+        <img src="https://i.pinimg.com/originals/71/97/3f/71973f6d71e09d0f816d01f1c673549e.gif" alt="Education GIF" width="220" />
+      </a>
     </td>
   </tr>
 </table>
