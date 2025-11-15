@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://i.pinimg.com/originals/1d/d7/7d/1dd77d62c8c89db3b0e6e0142b47807d.gif" style="height: 200px; object-fit: cover;" />
+  <img width="100%" src="https://i.pinimg.com/originals/1d/d7/7d/1dd77d62c8c89db3b0e6e0142b47807d.gif" style="height: 200px; object-fit: cover; transform: rotate(180deg);" />
 </div>
 
 <div align="center">
@@ -180,7 +180,7 @@
 
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=90&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=20&descAlignY=20&color=0:CAF0F8,100:90E0EF"  />
+  <img width="100%" src="https://i.pinimg.com/originals/1d/d7/7d/1dd77d62c8c89db3b0e6e0142b47807d.gif" style="height: 200px; object-fit: cover;" />
 </div>
 
 ###
