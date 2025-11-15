@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-<h1>Hi, im Kim Aeriel </h1>
+<h1>Hi, im Kim Aeriel ≽^•⩊•^≼</h1>
 </div>
 
 ###
@@ -76,20 +76,27 @@
 
 ###
 
-<h3>🪼 Certificates </h3>
+<h3>🪼 Certificates</h3>
 
-<table style="border-collapse: collapse;">
+<table>
+  <thead>
+    <tr>
+      <th align="left">Certificate</th>
+      <th align="left">Issued</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td>
-        <a href="https://drive.google.com/file/d/1pYepQ4Q4aguL3iDqsbrg-kimREEIAFQX/view?usp=sharing" target="_blank">Introduction to Cybersecurity</a>
+        <a href="https://drive.google.com/file/d/1pYepQ4Q4aguL3iDqsbrg-kimREEIAFQX/view?usp=sharing" target="_blank" rel="noopener">Introduction to Cybersecurity</a>
       </td>
-      <td>Issue date</td>
+      <td>2025</td>
     </tr>
     <tr>
       <td>
-        <a href="https://drive.google.com/file/d/1TqRAgKz5aN1TlBJ-QkI9A-omdJ8-9Esk/view?usp=sharing" target="_blank">SQL and Relational Databases 101</a>
+        <a href="https://drive.google.com/file/d/1TqRAgKz5aN1TlBJ-QkI9A-omdJ8-9Esk/view?usp=sharing" target="_blank" rel="noopener">SQL and Relational Databases 101</a>
       </td>
+      <td>2025</td>
     </tr>
   </tbody>
 </table>
