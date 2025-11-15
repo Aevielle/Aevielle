@@ -56,9 +56,9 @@
 
 <h3>🎓 Education</h3>
 
-<table>
+<table style="border: none; border-collapse: collapse;">
   <tr>
-    <td valign="top" width="70%">
+    <td valign="top" width="70%" style="border: none;">
       <ul>
         <li><strong>College | Bachelor of Science in Computer Science</strong>
           <ul>
@@ -86,7 +86,7 @@
       </ul>
     </td>
 
-    <td valign="middle" width="30%" align="right">
+    <td valign="middle" width="30%" align="right" style="border: none;">
       <a href="https://i.pinimg.com/originals/b4/ae/57/b4ae57277f60b88d4d059057e3941f92.gif" target="_blank" rel="noopener">
         <img src="https://i.pinimg.com/originals/b4/ae/57/b4ae57277f60b88d4d059057e3941f92.gif" alt="Education GIF" width="260" />
       </a>
