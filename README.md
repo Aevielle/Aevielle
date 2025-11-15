@@ -154,7 +154,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-<hr>
+---
 
 <div align="center">
   <a href="https://www.instagram.com/aeriiely/" target="_blank">
@@ -174,6 +174,8 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Aevielle/Aevielle/output/snake.svg" alt="Snake animation" />
 </div>
+
+---
 
 <div align="center">
   <img width="100%" src="https://i.pinimg.com/originals/1d/d7/7d/1dd77d62c8c89db3b0e6e0142b47807d.gif" style="height: 350px; object-fit: cover;" />
