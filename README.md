@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://i.pinimg.com/originals/1d/d7/7d/1dd77d62c8c89db3b0e6e0142b47807d.gif" style="height: 200px; object-fit: cover; transform: rotate(10deg);" />
+  <img width="100%" src="https://i.pinimg.com/originals/1d/d7/7d/1dd77d62c8c89db3b0e6e0142b47807d.gif" style="height: 200px; object-fit: cover; transform: scaleX(-1);" />
 </div>
 
 <div align="center">
