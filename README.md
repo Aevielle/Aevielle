@@ -81,7 +81,7 @@
 <table>
   <thead>
     <tr>
-      <th align="left">Certificate</th>
+      <th align="left">Title</th>
       <th align="left">Issued by</th>
       <th align="left">Year</th>
     </tr>
