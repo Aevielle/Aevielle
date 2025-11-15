@@ -56,35 +56,31 @@
 
 <h3>🎓 Education</h3>
 
-  <tr>
-    <td>
-      <ul>
-        <li><strong>College | Bachelor of Science in Computer Science</strong>
-          <ul>
-            <li>New Era University <small>(2024 – Present)</small></li>
-          </ul>
-        </li>
-          </ul>
-        </li>
-        <li><strong>Senior High School | STEM</strong>
-          <ul>
-            <li>San Francisco High School <small>(2022 – 2024)</small></li>
-          </ul>
-        </li>
-        <li><strong>High School</strong>
-          <ul>
-            <li>New Era University <small>(2018 – 2022)</small></li>
-          </ul>
-        </li>
-        <li><strong>Elementary</strong>
-          <ul>
-            <li>New Era University <small>(2011 – 2018)</small></li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
+<ul>
+  <li><strong>College | Bachelor of Science in Computer Science</strong>
+    <ul>
+      <li>New Era University <small>(2024 – Present)</small></li>
+    </ul>
+  </li>
 
+  <li><strong>Senior High School | STEM</strong>
+    <ul>
+      <li>San Francisco High School <small>(2022 – 2024)</small></li>
+    </ul>
+  </li>
+
+  <li><strong>High School</strong>
+    <ul>
+      <li>New Era University <small>(2018 – 2022)</small></li>
+    </ul>
+  </li>
+
+  <li><strong>Elementary</strong>
+    <ul>
+      <li>New Era University <small>(2011 – 2018)</small></li>
+    </ul>
+  </li>
+</ul>
 
 ###
 
