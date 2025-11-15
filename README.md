@@ -77,6 +77,11 @@
   </li>
 </ul>
 
+<div style="flex-shrink: 0; margin-top: 40px;">
+    <img src="https://i.pinimg.com/originals/b4/ae/57/b4ae57277f60b88d4d059057e3941f92.gif" width="220" alt="Education GIF" />
+  </div>
+</div>
+
 ---
 
 <h3>📜 Certificates</h3>
