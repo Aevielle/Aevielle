@@ -52,7 +52,10 @@
 
 ---
 
+###
+
 <div style="display: flex; align-items: flex-start; gap: 40px;">
+  <!-- Education List -->
   <div style="flex: 1;">
     <h3>🎓 Education</h3>
     <ul>
@@ -79,31 +82,13 @@
     </ul>
   </div>
   
-  <div style="flex-shrink: 0; align-self: center;">
+  <!-- GIF on the right side, aligned to top -->
+  <div style="flex-shrink: 0;">
     <img src="https://i.pinimg.com/originals/b4/ae/57/b4ae57277f60b88d4d059057e3941f92.gif" width="200" alt="Education GIF" />
   </div>
 </div>
----
 
-<h3>📜 Certificates</h3>
-
-<table>
-  <tr>
-    <th align="left">Certificate</th>
-    <th align="left">Issued By</th>
-    <th align="center">Year</th>
-  </tr>
-  <tr>
-    <td><a href="https://drive.google.com/file/d/1pYepQ4Q4aguL3iDqsbrg-kimREEIAFQX/view?usp=sharing" target="_blank">Introduction to Cybersecurity</a></td>
-    <td>Cisco Net Acad</td>
-    <td align="center">2025</td>
-  </tr>
-  <tr>
-    <td><a href="https://drive.google.com/file/d/1TqRAgKz5aN1TlBJ-QkI9A-omdJ8-9Esk/view?usp=sharing" target="_blank">SQL and Relational Databases 101</a></td>
-    <td>Cognitive Class AI</td>
-    <td align="center">2025</td>
-  </tr>
-</table>
+###
 
 ---
 
