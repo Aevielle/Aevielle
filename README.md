@@ -1,4 +1,8 @@
 <div align="center">
+  <img width="100%" src="https://img1.picmix.com/output/stamp/normal/8/0/0/3/1243008_62d9b.gif" style="height: 100px; object-fit: cover;" />
+</div>
+
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=90&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=20&descAlignY=20&color=0:CAF0F8,100:90E0EF"  />
 </div>
 
