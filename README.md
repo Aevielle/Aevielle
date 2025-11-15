@@ -52,36 +52,37 @@
 
 ---
 
-<h3>🎓 Education</h3>
-
-<ul>
-  <li><strong>College | Bachelor of Science in Computer Science</strong>
+<div style="display: flex; align-items: flex-start; gap: 40px;">
+  <div style="flex: 1;">
+    <h3>🎓 Education</h3>
     <ul>
-      <li>New Era University <small>(2024 – Present)</small></li>
+      <li><strong>College | Bachelor of Science in Computer Science</strong>
+        <ul>
+          <li>New Era University <small>(2024 – Present)</small></li>
+        </ul>
+      </li>
+      <li><strong>Senior High School | STEM</strong>
+        <ul>
+          <li>San Francisco High School <small>(2022 – 2024)</small></li>
+        </ul>
+      </li>
+      <li><strong>High School</strong>
+        <ul>
+          <li>New Era University <small>(2018 – 2022)</small></li>
+        </ul>
+      </li>
+      <li><strong>Elementary</strong>
+        <ul>
+          <li>New Era University <small>(2011 – 2018)</small></li>
+        </ul>
+      </li>
     </ul>
-  </li>
-  <li><strong>Senior High School | STEM</strong>
-    <ul>
-      <li>San Francisco High School <small>(2022 – 2024)</small></li>
-    </ul>
-  </li>
-  <li><strong>High School</strong>
-    <ul>
-      <li>New Era University <small>(2018 – 2022)</small></li>
-    </ul>
-  </li>
-  <li><strong>Elementary</strong>
-    <ul>
-      <li>New Era University <small>(2011 – 2018)</small></li>
-    </ul>
-  </li>
-</ul>
-
-<div style="flex-shrink: 0; margin-top: 40px;">
-    <img src="https://i.pinimg.com/originals/b4/ae/57/b4ae57277f60b88d4d059057e3941f92.gif" width="220" alt="Education GIF" />
+  </div>
+  
+  <div style="flex-shrink: 0; align-self: center;">
+    <img src="https://i.pinimg.com/originals/b4/ae/57/b4ae57277f60b88d4d059057e3941f92.gif" width="200" alt="Education GIF" />
   </div>
 </div>
-
 ---
 
 <h3>📜 Certificates</h3>
