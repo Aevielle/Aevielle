@@ -42,7 +42,7 @@
 
 ###
 
-<h3>🎓 Education</h3>
+<h3>🍃 Education</h3>
 
 <ul>
   <li><strong>College | Bachelor of Science in Computer Science</strong>
@@ -76,14 +76,22 @@
 
 ###
 
-<ul style="list-style-type: none; padding-left: 0;">
-  <li style="margin-bottom: 8px;">
-    <a href="https://drive.google.com/file/d/1pYepQ4Q4aguL3iDqsbrg-kimREEIAFQX/view?usp=sharing" target="_blank">Introduction to Cybersecurity</a>
-  </li>
-  <li style="margin-bottom: 8px;">
-    <a href="https://drive.google.com/file/d/1TqRAgKz5aN1TlBJ-QkI9A-omdJ8-9Esk/view?usp=sharing" target="_blank">SQL and Relational Databases 101</a>
-  </li>
-</ul>
+<h3>🪼 Certificates </h3>
+
+<table style="border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://drive.google.com/file/d/1pYepQ4Q4aguL3iDqsbrg-kimREEIAFQX/view?usp=sharing" target="_blank">Introduction to Cybersecurity</a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://drive.google.com/file/d/1TqRAgKz5aN1TlBJ-QkI9A-omdJ8-9Esk/view?usp=sharing" target="_blank">SQL and Relational Databases 101</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 ###
@@ -92,7 +100,7 @@
 
 ### 
 
-<h3>🛠 Skills</h3>
+<h3>🌸 Skills</h3>
 
 <ul>
   <li><strong>Programming Languages</strong>
