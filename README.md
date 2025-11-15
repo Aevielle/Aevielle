@@ -81,9 +81,9 @@
 <table>
   <thead>
     <tr>
-      <th align="left">Title</th>
-      <th align="left">Issued by</th>
-      <th align="left">Year</th>
+      <th align="Center">Title</th>
+      <th align="Center">Issued by</th>
+      <th align="Center">Year</th>
     </tr>
   </thead>
   <tbody>
