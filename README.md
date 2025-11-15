@@ -8,12 +8,113 @@
   <img height="150" src="https://i.pinimg.com/originals/8e/08/b9/8e08b9961b83aa4228c6ede7f4607287.gif"  />
 </div>
 
-<p align="center"> Hi, im Kim Aeriel
-  <svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated greeting">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kim Aeriel - Welcome</title>
     <style>
-      .greet { font: 40px "Segoe UI", Roboto, "Times New Roman", serif; fill:#e6eef2; font-weight:700; }
-      .wave  { font-size:42px; }
+        body {
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .container {
+            text-align: center;
+            padding: 2rem;
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+            max-width: 800px;
+            width: 90%;
+        }
+        h1 {
+            color: #e6eef2;
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+            font-weight: 700;
+        }
+        .wave {
+            display: inline-block;
+            animation: wave 2s infinite;
+            transform-origin: 70% 70%;
+            font-size: 2.8rem;
+            margin-left: 10px;
+        }
+        @keyframes wave {
+            0% { transform: rotate(0deg); }
+            10% { transform: rotate(14deg); }
+            20% { transform: rotate(-8deg); }
+            30% { transform: rotate(14deg); }
+            40% { transform: rotate(-4deg); }
+            50% { transform: rotate(10deg); }
+            60% { transform: rotate(0deg); }
+            100% { transform: rotate(0deg); }
+        }
+        .subtitle {
+            color: #e6eef2;
+            font-size: 1.2rem;
+            margin-top: 1.5rem;
+            opacity: 0.9;
+        }     
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 2rem;
+        }     
+        .social-link {
+            display: inline-block;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.2);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            text-decoration: none;
+            font-size: 1.5rem;
+            transition: all 0.3s ease;
+        }
+        .social-link:hover {
+            background: rgba(255, 255, 255, 0.3);
+            transform: translateY(-5px);
+        }
+        @media (max-width: 600px) {
+            h1 {
+                font-size: 2rem;
+            }
+            .wave {
+                font-size: 2.2rem;
+            }
+            
+            .subtitle {
+                font-size: 1rem;
+            }
+        }
     </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Hi, I'm Kim Aeriel<span class="wave">👋</span></h1>
+        <div class="subtitle">Welcome to my corner of the internet</div>      
+        <div class="social-links">
+            <a href="#" class="social-link">📁</a>
+            <a href="#" class="social-link">💼</a>
+            <a href="#" class="social-link">📧</a>
+            <a href="#" class="social-link">🐙</a>
+        </div>
+    </div>
+</body>
+</html>
 
 ###
 
