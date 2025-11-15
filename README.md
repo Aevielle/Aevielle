@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<h1>Hi, im Kim Aeriel �</h1>
+<h1>Hi, im Kim Aeriel </h1>
 </div>
 
 
