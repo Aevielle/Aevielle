@@ -100,12 +100,12 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="./certs/Introduction-to-Cybersecurity.pdf" target="_blank" rel="noopener">Introduction to Cybersecurity</a></td>
+      <td><a href="https://drive.google.com/file/d/1pYepQ4Q4aguL3iDqsbrg-kimREEIAFQX/view?usp=sharing" target="_blank" rel="noopener">Introduction to Cybersecurity</a></td>
       <td>Cisco Net Acad</td>
       <td>2025</td>
     </tr>
     <tr>
-      <td><a href="./certs/SQL-Database-101.pdf" target="_blank" rel="noopener">SQL Database 101</a></td>
+      <td><a href="https://drive.google.com/file/d/1TqRAgKz5aN1TlBJ-QkI9A-omdJ8-9Esk/view?usp=sharing" target="_blank" rel="noopener">SQL and Relational Databases 101 </a></td>
       <td>Cognitive Class AI</td>
       <td>2025</td>
     </tr>
