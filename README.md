@@ -56,7 +56,7 @@
 
 <h3>🎓 Education</h3>
 
-<div id="education-container" style="display: grid; grid-template-columns: 65% 35%; gap: 20px; align-items: start;">
+<div style="display: grid; grid-template-columns: 65% 35%; gap: 20px; align-items: start;">
   <!-- Education Content -->
   <div>
     <ul>
@@ -84,21 +84,10 @@
   </div>
   
   <!-- GIF -->
-  <div style="text-align: center;">
+  <div style="text-align: center; margin-top: 20px;">
     <img src="https://i.pinimg.com/originals/b4/ae/57/b4ae57277f60b88d4d059057e3941f92.gif" width="180" alt="Education GIF" />
   </div>
 </div>
-
-<script>
-  // Force the layout to maintain side-by-side positioning
-  document.addEventListener('DOMContentLoaded', function() {
-    const container = document.getElementById('education-container');
-    container.style.display = 'grid';
-    container.style.gridTemplateColumns = '65% 35%';
-    container.style.gap = '20px';
-    container.style.alignItems = 'start';
-  });
-</script>
 
 ###
 
