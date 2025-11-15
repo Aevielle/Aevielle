@@ -77,27 +77,12 @@
 ###
 
 <table style="border-collapse: collapse;">
-  <thead>
-    <tr>
-      <th style="background-color: #d0e8ff;">Certificate</th>
-      <th style="background-color: #d0e8ff;">Issued By</th>
-      <th style="background-color: #d0e8ff;">Year</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td style="background-color: #f2f8ff;">
         <a href="https://drive.google.com/file/d/1pYepQ4Q4aguL3iDqsbrg-kimREEIAFQX/view?usp=sharing" target="_blank">Introduction to Cybersecurity</a>
-      </td>
-      <td style="background-color: #f2f8ff;">Cisco Net Acad</td>
-      <td style="background-color: #f2f8ff;">2025</td>
     </tr>
     <tr>
-      <td style="background-color: #f9faff;">
         <a href="https://drive.google.com/file/d/1TqRAgKz5aN1TlBJ-QkI9A-omdJ8-9Esk/view?usp=sharing" target="_blank">SQL and Relational Databases 101</a>
-      </td>
-      <td style="background-color: #f9faff;">Cognitive Class AI</td>
-      <td style="background-color: #f9faff;">2025</td>
     </tr>
   </tbody>
 </table>
