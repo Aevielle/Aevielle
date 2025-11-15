@@ -56,38 +56,43 @@
 
 <h3>🎓 Education</h3>
 
-<div style="display: grid; grid-template-columns: 65% 35%; gap: 20px; align-items: start;">
-  <!-- Education Content -->
-  <div>
-    <ul>
-      <li><strong>College | Bachelor of Science in Computer Science</strong>
-        <ul>
-          <li>New Era University <small>(2024 – Present)</small></li>
-        </ul>
-      </li>
-      <li><strong>Senior High School | STEM</strong>
-        <ul>
-          <li>San Francisco High School <small>(2022 – 2024)</small></li>
-        </ul>
-      </li>
-      <li><strong>High School</strong>
-        <ul>
-          <li>New Era University <small>(2018 – 2022)</small></li>
-        </ul>
-      </li>
-      <li><strong>Elementary</strong>
-        <ul>
-          <li>New Era University <small>(2011 – 2018)</small></li>
-        </ul>
-      </li>
-    </ul>
-  </div>
-  
-  <!-- GIF -->
-  <div style="text-align: center; margin-top: 20px;">
-    <img src="https://i.pinimg.com/originals/b4/ae/57/b4ae57277f60b88d4d059057e3941f92.gif" width="180" alt="Education GIF" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <ul>
+        <li><strong>College | Bachelor of Science in Computer Science</strong>
+          <ul>
+            <li>New Era University <small>(2024 – Present)</small></li>
+          </ul>
+        </li>
+
+        <li><strong>Senior High School | STEM</strong>
+          <ul>
+            <li>San Francisco High School <small>(2022 – 2024)</small></li>
+          </ul>
+        </li>
+
+        <li><strong>High School</strong>
+          <ul>
+            <li>New Era University <small>(2018 – 2022)</small></li>
+          </ul>
+        </li>
+
+        <li><strong>Elementary</strong>
+          <ul>
+            <li>New Era University <small>(2011 – 2018)</small></li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+
+    <td valign="middle" width="30%" align="right">
+      <a href="https://i.pinimg.com/originals/b4/ae/57/b4ae57277f60b88d4d059057e3941f92.gif" target="_blank" rel="noopener">
+        <img src="https://i.pinimg.com/originals/b4/ae/57/b4ae57277f60b88d4d059057e3941f92.gif" alt="Education GIF" width="260" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
 
