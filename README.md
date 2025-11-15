@@ -56,28 +56,25 @@
 
 <h3>🎓 Education</h3>
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
-    <td valign="top" width="70%" style="border: none;">
-      <ul>
+    <td style="border: none; vertical-align: top; width: 60%;">
+      <ul style="margin: 0; padding-left: 20px;">
         <li><strong>College | Bachelor of Science in Computer Science</strong>
           <ul>
             <li>New Era University <small>(2024 – Present)</small></li>
           </ul>
         </li>
-
         <li><strong>Senior High School | STEM</strong>
           <ul>
             <li>San Francisco High School <small>(2022 – 2024)</small></li>
           </ul>
         </li>
-
         <li><strong>High School</strong>
           <ul>
             <li>New Era University <small>(2018 – 2022)</small></li>
           </ul>
         </li>
-
         <li><strong>Elementary</strong>
           <ul>
             <li>New Era University <small>(2011 – 2018)</small></li>
@@ -85,11 +82,8 @@
         </li>
       </ul>
     </td>
-
-    <td valign="middle" width="30%" align="right" style="border: none;">
-      <a href="https://i.pinimg.com/originals/b4/ae/57/b4ae57277f60b88d4d059057e3941f92.gif" target="_blank" rel="noopener">
-        <img src="https://i.pinimg.com/originals/b4/ae/57/b4ae57277f60b88d4d059057e3941f92.gif" alt="Education GIF" width="260" />
-      </a>
+    <td style="border: none; vertical-align: middle; width: 40%; text-align: center;">
+      <img src="https://i.pinimg.com/originals/71/97/3f/71973f6d71e09d0f816d01f1c673549e.gif" width="200" alt="Education GIF" />
     </td>
   </tr>
 </table>
