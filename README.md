@@ -8,7 +8,9 @@
   <img height="150" src="https://i.pinimg.com/originals/8e/08/b9/8e08b9961b83aa4228c6ede7f4607287.gif"  />
 </div>
 
+<div align="center">
 <h1>Hi, im Kim Aeriel</h1>
+</div>
 
 ###
 
@@ -88,29 +90,32 @@
 
 ###
 
-<h3>📜 Certificates</h3>
-
-<table>
+<table style="border-collapse: collapse;">
   <thead>
     <tr>
-      <th align="left">Certificate</th>
-      <th align="left">Issued By</th>
-      <th align="left">Year</th>
+      <th style="background-color: #d0e8ff;">Certificate</th>
+      <th style="background-color: #d0e8ff;">Issued By</th>
+      <th style="background-color: #d0e8ff;">Year</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://drive.google.com/file/d/1pYepQ4Q4aguL3iDqsbrg-kimREEIAFQX/view?usp=sharing" target="_blank" rel="noopener">Introduction to Cybersecurity</a></td>
-      <td>Cisco Net Acad</td>
-      <td>2025</td>
+      <td style="background-color: #f2f8ff;">
+        <a href="https://drive.google.com/file/d/1pYepQ4Q4aguL3iDqsbrg-kimREEIAFQX/view?usp=sharing" target="_blank">Introduction to Cybersecurity</a>
+      </td>
+      <td style="background-color: #f2f8ff;">Cisco Net Acad</td>
+      <td style="background-color: #f2f8ff;">2025</td>
     </tr>
     <tr>
-      <td><a href="https://drive.google.com/file/d/1TqRAgKz5aN1TlBJ-QkI9A-omdJ8-9Esk/view?usp=sharing" target="_blank" rel="noopener">SQL and Relational Databases 101 </a></td>
-      <td>Cognitive Class AI</td>
-      <td>2025</td>
+      <td style="background-color: #f9faff;">
+        <a href="https://drive.google.com/file/d/1TqRAgKz5aN1TlBJ-QkI9A-omdJ8-9Esk/view?usp=sharing" target="_blank">SQL and Relational Databases 101</a>
+      </td>
+      <td style="background-color: #f9faff;">Cognitive Class AI</td>
+      <td style="background-color: #f9faff;">2025</td>
     </tr>
   </tbody>
-</table
+</table>
+
 
 ###
 
