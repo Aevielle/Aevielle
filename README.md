@@ -83,6 +83,7 @@
     <tr>
       <th align="left">Certificate</th>
       <th align="left">Issued by</th>
+      <th align="left">Year</th>
     </tr>
   </thead>
   <tbody>
@@ -90,12 +91,14 @@
       <td>
         <a href="https://drive.google.com/file/d/1pYepQ4Q4aguL3iDqsbrg-kimREEIAFQX/view?usp=sharing" target="_blank" rel="noopener">Introduction to Cybersecurity</a>
       </td>
+      <td>Cisco Network Academy</td>
       <td>2025</td>
     </tr>
     <tr>
       <td>
         <a href="https://drive.google.com/file/d/1TqRAgKz5aN1TlBJ-QkI9A-omdJ8-9Esk/view?usp=sharing" target="_blank" rel="noopener">SQL and Relational Databases 101</a>
       </td>
+      <td>Cognitive Class Ai</td>
       <td>2025</td>
     </tr>
   </tbody>
