@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/cd/6d/4d/cd6d4d9bc747cbf4ea72aeb06b1f2eb8.gif"  />
+  <img height="150" src="https://i.pinimg.com/originals/8e/08/b9/8e08b9961b83aa4228c6ede7f4607287.gif"  />
 </div>
 
 <h1 align="center">Hi, I'm Kim Aeriel 👋</h1>
