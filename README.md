@@ -8,7 +8,12 @@
   <img height="150" src="https://i.pinimg.com/originals/8e/08/b9/8e08b9961b83aa4228c6ede7f4607287.gif"  />
 </div>
 
-<h1 align="center">Hi, I'm Kim Aeriel 👋</h1>
+<p align="center"> Hi, im Kim Aeriel
+  <svg width="100%" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated greeting">
+    <style>
+      .greet { font: 40px "Segoe UI", Roboto, "Times New Roman", serif; fill:#e6eef2; font-weight:700; }
+      .wave  { font-size:42px; }
+    </style>
 
 ###
 
