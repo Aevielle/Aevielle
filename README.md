@@ -36,7 +36,7 @@
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
+  <a href="https://myaccount.google.com/u/1/?hl=en&utm_source=OGB&utm_medium=act&gar=WzEyMF0&pli=1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"_blank">
