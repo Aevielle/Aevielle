@@ -56,9 +56,9 @@
 
 <h3>🎓 Education</h3>
 
-<div style="position: relative;">
+<div id="education-container" style="display: grid; grid-template-columns: 65% 35%; gap: 20px; align-items: start;">
   <!-- Education Content -->
-  <div style="width: 65%;">
+  <div>
     <ul>
       <li><strong>College | Bachelor of Science in Computer Science</strong>
         <ul>
@@ -83,11 +83,22 @@
     </ul>
   </div>
   
-  <!-- GIF positioned absolutely to the right -->
-  <div style="position: absolute; right: 0; top: 0; width: 30%; text-align: center;">
+  <!-- GIF -->
+  <div style="text-align: center;">
     <img src="https://i.pinimg.com/originals/b4/ae/57/b4ae57277f60b88d4d059057e3941f92.gif" width="180" alt="Education GIF" />
   </div>
 </div>
+
+<script>
+  // Force the layout to maintain side-by-side positioning
+  document.addEventListener('DOMContentLoaded', function() {
+    const container = document.getElementById('education-container');
+    container.style.display = 'grid';
+    container.style.gridTemplateColumns = '65% 35%';
+    container.style.gap = '20px';
+    container.style.alignItems = 'start';
+  });
+</script>
 
 ###
 
