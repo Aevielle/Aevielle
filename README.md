@@ -54,10 +54,11 @@
 
 ###
 
-<div style="display: flex; align-items: flex-start; gap: 40px;">
-  <!-- Education List -->
-  <div style="flex: 1;">
-    <h3>🎓 Education</h3>
+<h3>🎓 Education</h3>
+
+<div style="position: relative;">
+  <!-- Education Content -->
+  <div style="width: 65%;">
     <ul>
       <li><strong>College | Bachelor of Science in Computer Science</strong>
         <ul>
@@ -82,9 +83,9 @@
     </ul>
   </div>
   
-  <!-- GIF on the right side, aligned to top -->
-  <div style="flex-shrink: 0;">
-    <img src="https://i.pinimg.com/originals/b4/ae/57/b4ae57277f60b88d4d059057e3941f92.gif" width="200" alt="Education GIF" />
+  <!-- GIF positioned absolutely to the right -->
+  <div style="position: absolute; right: 0; top: 0; width: 30%; text-align: center;">
+    <img src="https://i.pinimg.com/originals/b4/ae/57/b4ae57277f60b88d4d059057e3941f92.gif" width="180" alt="Education GIF" />
   </div>
 </div>
 
