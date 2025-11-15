@@ -86,6 +86,36 @@
 
 ---
 
+###
+
+<h3>📜 Certificates</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th align="left">Certificate</th>
+      <th align="left">Issued By</th>
+      <th align="left">Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="./certs/Introduction-to-Cybersecurity.pdf" target="_blank" rel="noopener">Introduction to Cybersecurity</a></td>
+      <td>Cisco Net Acad</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td><a href="./certs/SQL-Database-101.pdf" target="_blank" rel="noopener">SQL Database 101</a></td>
+      <td>Cognitive Class AI</td>
+      <td>2025</td>
+    </tr>
+  </tbody>
+</table
+
+###
+
+---
+
 ### 
 
 <h3>🛠 Skills</h3>
