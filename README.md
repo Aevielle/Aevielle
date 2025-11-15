@@ -56,23 +56,23 @@
 
 # Education
 
-<div style="float: right; margin-left: 20px; margin-bottom: 20px;">
-  <img src="https://i.pinimg.com/originals/b4/ae/57/b4ae57277f60b88d4d059057e3941f92.gif" alt="Education GIF" style="max-width: 200px;">
+<div>
+  <div style="width: 60%; float: left;">
+    - College | Bachelor of Science in Computer Science  
+      - New Era University (2024 – Present)  
+    - Senior High School | STEM  
+      - San Francisco High School (2022 – 2024)  
+    - High School  
+      - New Era University (2018 – 2022)  
+    - Elementary  
+      - New Era University (2011 – 2018)
+  </div>
+  <div style="width: 35%; float: right; text-align: center;">
+    <img src="https://i.pinimg.com/originals/f9/1c/f1/f91cf1e1b063c385cab21452e3a8e1d6.gif" alt="Education GIF" style="max-width: 100%;">
+  </div>
+  <div style="clear: both;"></div>
 </div>
 
-- College | Bachelor of Science in Computer Science  
-  - New Era University (2024 – Present)  
-
-- Senior High School | STEM  
-  - San Francisco High School (2022 – 2024)  
-
-- High School  
-  - New Era University (2018 – 2022)  
-
-- Elementary  
-  - New Era University (2011 – 2018)
-
-<div style="clear: both;"></div>
 ###
 
 ---
