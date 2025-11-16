@@ -20,20 +20,7 @@
 
 ###
 
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <h1>Your Name</h1>
-    <p>Your title or brief description</p>
-  </div>
-  <div>
-    <img src="https://i.pinimg.com/originals/a6/1a/da/a61adafc67cc360e6b2a1ed7498f13c6.gif" alt="Animation" width="150" />
-  </div>
-</div>
-
-<p>Hello, I'm <strong>Kim Aeriel</strong>, a learning developer student. <div align="center">
-   <img width="50" height="25" src="https://i.pinimg.com/originals/d3/e8/60/d3e86071c96270f1c07256e879c3c8b7.gif" />
-</div></p> 
+<p>Hello, I'm <strong>Kim Aeriel</strong>, a learning developer student.></p> 
 
 <p>I love crafting innovative solutions and exploring new technologies. I'm a dedicated developer with a keen interest in web development and technology.</p>
 
