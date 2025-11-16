@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-   <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/e6b78f90-bd47-4205-8d47-377ef464b5f8" />
+   <img width="2125" height="520" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/d4689832-424a-468c-bba6-79f6697accb1" />
 </div>
 
 ###
