@@ -22,7 +22,7 @@
 
 <p>Hello, I'm <strong>Kim Aeriel</strong>, a learning developer student.</p>
 
-<p>I love crafting innovative solutions and exploring new technologies. I'm a dedicated developer with a keen interest in software development and technology.</p>
+<p>I love crafting innovative solutions and exploring new technologies. I'm a dedicated developer with a keen interest in web development and technology.</p>
 
 <p>Currently, I'm exploring various programming languages and frameworks to enhance my skills and contribute to exciting projects. I thrive in collaborative environments and enjoy tackling challenges with a positive mindset.</p>
 
