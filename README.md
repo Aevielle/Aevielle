@@ -20,7 +20,9 @@
 
 ###
 
-<p>Hello, I'm <strong>Kim Aeriel</strong>, a learning developer student.</p>
+<p>Hello, I'm <strong>Kim Aeriel</strong>, a learning developer student. <div align="center">
+   <img width="50" height="25" src="https://i.pinimg.com/originals/d3/e8/60/d3e86071c96270f1c07256e879c3c8b7.gif" />
+</div></p> 
 
 <p>I love crafting innovative solutions and exploring new technologies. I'm a dedicated developer with a keen interest in web development and technology.</p>
 
