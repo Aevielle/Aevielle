@@ -20,7 +20,7 @@
 
 ###
 
-<p>Hello, I'm <strong>Kim Aeriel V. Fonseca</strong>, a learning developer student.</p>
+<p>Hello, I'm <strong>Kim Aeriel</strong>, a learning developer student.</p>
 
 <p>I love crafting innovative solutions and exploring new technologies. I'm a dedicated developer with a keen interest in software development and technology.</p>
 
