@@ -168,3 +168,7 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Aevielle/Aevielle/output/snake.svg" alt="Snake animation" />
 </div>
+
+<div align="center">
+  <img width="2125" height="250" alt="bbb" src="https://github.com/user-attachments/assets/8351b3cf-356f-4490-acd7-f836ff410481" />
+</div>
