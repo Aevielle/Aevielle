@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<h1>Kim Aeriel ≽^•⩊•^≼</h1>
+<h2>Kim Aeriel ≽^•⩊•^≼</h2>
 </div>
 
 ###
