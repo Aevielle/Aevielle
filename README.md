@@ -34,7 +34,7 @@
 
 ###
 
-<h3>EDUCATION</h3>
+<h3>👩🏻‍🎓 EDUCATION</h3>
 
 <ul>
   <li><strong>College | Bachelor of Science in Computer Science</strong>
@@ -68,7 +68,7 @@
 
 ###
 
-<h3>CERTIFICATES</h3>
+<h3>📜 CERTIFICATES</h3>
 
 <table>
   <thead>
@@ -103,7 +103,7 @@
 
 ### 
 
-<h3>SKILLS</h3>
+<h3>🏅 SKILLS</h3>
 
 <ul>
   <li><strong>Programming Languages</strong>
