@@ -88,7 +88,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://drive.google.com/file/d/1TqRAgKz5aN1TlBJ-QkI9A-omdJ8-9Esk/view?usp=sharing" target="_blank" rel="noopener">SQL and Relational Databases 101</a>
+        <a href="https://courses.cognitiveclass.ai/certificates/e813985af76e46cd85ecd46a80d0ec41" target="_blank" rel="noopener">SQL and Relational Databases 101</a>
       </td>
       <td>Cognitive Class Ai</td>
       <td>2025</td>
