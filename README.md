@@ -1,15 +1,3 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aevielle.Aevielle&"  />
-</div>
-
-###
-
-<div align="center">
-   <img width="2125" height="520" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/d4689832-424a-468c-bba6-79f6697accb1" />
-</div>
-
-###
-
 <p align="center">
   <em>💻 Computer Science Student | 🤔 Exploring New Tech | 📖 Learning by Building</em>
 </p>
@@ -167,8 +155,4 @@
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Aevielle/Aevielle/output/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img width="2125" height="250" alt="bbb" src="https://github.com/user-attachments/assets/8351b3cf-356f-4490-acd7-f836ff410481" />
 </div>
