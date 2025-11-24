@@ -75,6 +75,13 @@
       <td>Cognitive Class Ai</td>
       <td>2025</td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://courses.cognitiveclass.ai/certificates/e813985af76e46cd85ecd46a80d0ec41" target="_blank" rel="noopener">Oracle Cloud Infrastructure Foundations Associate</a>
+      </td>
+      <td>Oracle</td>
+      <td>2025</td>
+    </tr>
   </tbody>
 </table>
 
