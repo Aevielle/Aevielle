@@ -97,17 +97,17 @@
 <ul>
   <li><strong>Programming Languages</strong>
     <ul>
-      <li>Java, SQL, Python, HTML, CSS, TypeScript, JavaScript</li>
+      <li>Java, SQL, HTML, CSS, JavaScript</li>
     </ul>
   </li>
   <li><strong>Databases & Services</strong>
     <ul>
-      <li>IBM DB2 Cloud, Supabase, MongoDB</li>
+      <li>IBM DB2 Cloud, Supabase</li>
     </ul>
   </li>
   <li><strong>Frameworks & Tools</strong>
     <ul>
-      <li>React, Node.js, Lucidchart, Figma, Canva</li>
+      <li>Lucidchart, Canva</li>
     </ul>
   </li>
   <li><strong>Dev Tools</strong>
