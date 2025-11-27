@@ -77,7 +77,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://courses.cognitiveclass.ai/certificates/e813985af76e46cd85ecd46a80d0ec41" target="_blank" rel="noopener">Oracle Cloud Infrastructure Foundations Associate</a>
+        <a href=https://catalog-education.oracle.com/ords/certview/sharebadge?id=88F5AE8C3F62BA92370C43D289CF5DDDCCA561EF88E78BF1BBCBCD788508BE9B" target="_blank" rel="noopener">Oracle Cloud Infrastructure Foundations Associate</a>
       </td>
       <td>Oracle</td>
       <td>2025</td>
