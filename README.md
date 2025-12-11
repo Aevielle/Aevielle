@@ -91,7 +91,7 @@
     </tr>
      <tr>
       <td>
-        <a href="" target="_blank" rel="noopener">Become An OCI AI Foundations Associate</a>
+        <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=1BED60DB3DD7C9BFB4966515D8F8B67223561AB88F8988A0728C143262893A9B" target="_blank" rel="noopener">Become An OCI AI Foundations Associate</a>
       </td>
       <td>Oracle</td>
       <td>2025</td>
