@@ -111,7 +111,7 @@
 <ul>
   <li><strong>Programming Languages</strong>
     <ul>
-      <li>HTML, CSS, JavaScript</li>
+      <li>HTML, CSS, JAVA</li>
     </ul>
   </li>
   <li><strong>Databases & Services</strong>
