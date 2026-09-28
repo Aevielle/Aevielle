@@ -96,6 +96,13 @@
       <td>Oracle</td>
       <td>2025</td>
     </tr>
+     <tr>
+      <td>
+        <a href="https://edu.google.accredible.com/d82e4dae-3b69-4ad9-87a5-ebb004ce6cc1#acc.vlHbGsIK" target="_blank" rel="noopener">Gemini Certified Student</a>
+      </td>
+      <td>Gemini</td>
+      <td>2026</td>
+    </tr>
   </tbody>
 </table>
 
